@@ -1,3 +1,6 @@
 body {
     background-color: black; /* Цвет фона веб-страницы */
 }
+h1 {
+    color: aliceblue;
+}
